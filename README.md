@@ -35,3 +35,6 @@ Overall, this interactive quiz application successfully meets all the internship
 ---
 
 ✅ Task Completed as per the guidelines of CodTech Internship.
+
+*output*
+<img width="1919" height="907" alt="Image" src="https://github.com/user-attachments/assets/4f192ccd-abcf-4501-84cd-cfbe47ccb45d" />
